@@ -1,0 +1,10 @@
+C:\Users\shawn\source\repos\JSConsoleTemplate\bin\Debug\JSConsoleTemplate.exe.config
+C:\Users\shawn\source\repos\JSConsoleTemplate\bin\Debug\JSConsoleTemplate.exe
+C:\Users\shawn\source\repos\JSConsoleTemplate\bin\Debug\JSConsoleTemplate.pdb
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.Form1.resources
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.Properties.Resources.resources
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.exe
+C:\Users\shawn\source\repos\JSConsoleTemplate\obj\Debug\JSConsoleTemplate.pdb
